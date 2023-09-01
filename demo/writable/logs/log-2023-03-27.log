@@ -1,0 +1,286 @@
+CRITICAL - 2023-03-27 10:28:26 --> CodeIgniter\Validation\Validation::setRules(): Argument #1 ($rules) must be of type array, CodeIgniter\Validation\Validation given, called in /var/www/htdocs/demo/system/Controller.php on line 184
+in SYSTEMPATH/Validation/Validation.php on line 469.
+ 1 SYSTEMPATH/Controller.php(184): CodeIgniter\Validation\Validation->setRules()
+ 2 SYSTEMPATH/Controller.php(138): CodeIgniter\Controller->setValidator()
+ 3 APPPATH/Controllers/FormController.php(27): CodeIgniter\Controller->validate()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\FormController->getFormData()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 10:36:15 --> CodeIgniter\Validation\Validation::setRules(): Argument #1 ($rules) must be of type array, CodeIgniter\Validation\Validation given, called in /var/www/htdocs/demo/system/Controller.php on line 184
+in SYSTEMPATH/Validation/Validation.php on line 469.
+ 1 SYSTEMPATH/Controller.php(184): CodeIgniter\Validation\Validation->setRules()
+ 2 SYSTEMPATH/Controller.php(138): CodeIgniter\Controller->setValidator()
+ 3 APPPATH/Controllers/FormController.php(27): CodeIgniter\Controller->validate()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\FormController->getFormData()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 10:36:54 --> CodeIgniter\Validation\Validation::setRules(): Argument #1 ($rules) must be of type array, string given, called in /var/www/htdocs/demo/app/Controllers/FormController.php on line 25
+in SYSTEMPATH/Validation/Validation.php on line 469.
+ 1 APPPATH/Controllers/FormController.php(25): CodeIgniter\Validation\Validation->setRules()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\FormController->getFormData()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 10:38:30 --> "not_contains" is not a valid rule.
+in SYSTEMPATH/Validation/Validation.php on line 320.
+ 1 SYSTEMPATH/Validation/Validation.php(320): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/FormController.php(25): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\FormController->getFormData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 10:41:52 --> "!matches" is not a valid rule.
+in SYSTEMPATH/Validation/Validation.php on line 320.
+ 1 SYSTEMPATH/Validation/Validation.php(320): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/FormController.php(25): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\FormController->getFormData()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:29:55 --> An angle of rotation is required to rotate the image.
+in SYSTEMPATH/Images/Handlers/BaseHandler.php on line 321.
+ 1 SYSTEMPATH/Images/Handlers/BaseHandler.php(321): CodeIgniter\Images\Exceptions\ImageException::forMissingAngle()
+ 2 APPPATH/Controllers/ImageController.php(62): CodeIgniter\Images\Handlers\BaseHandler->rotate()
+ 3 APPPATH/Controllers/ImageController.php(29): App\Controllers\ImageController->rotate()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:38:03 --> Invalid file: "image_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/ImageController.php(11): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:38:11 --> Invalid file: "image_form.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/ImageController.php(11): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:39:17 --> Call to undefined function form_open_multipart()
+in APPPATH/Views/image_form.php on line 16.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(11): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:43:25 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/ImageController.php(27): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:44:29 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/ImageController.php(27): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:48:41 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/ImageController.php(27): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:49:28 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/ImageController.php(27): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:50:53 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 176.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(176): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/ImageController.php(27): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:57:14 --> Class "App\Controllers\ImageModel" not found
+in APPPATH/Controllers/ImageController.php on line 32.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:57:40 --> Class "App\Controllers\ImageModel" not found
+in APPPATH/Controllers/ImageController.php on line 32.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:58:30 --> Class "App\Controllers\ImageModel" not found
+in APPPATH/Controllers/ImageController.php on line 32.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 11:59:19 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(36): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 12:01:23 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(36): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 12:07:35 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(36): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 12:15:15 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:23:24 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:37:10 --> Class "Imagick" not found
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:54:53 --> unable to open image `/var/www/htdocs/demo/public/path/to/images//demo/writable/uploads1679925293_e5e296a7db81b0b4d965.jpeg': No such file or directory @ error/blob.c/OpenBlob/2874
+in APPPATH/Models/ImageModel.php on line 11.
+ 1 APPPATH/Models/ImageModel.php(11): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:56:07 --> unable to open image `/var/www/htdocs/demo/public/path/to/images//demo/writable/uploads1679925367_abd53184aa23619562ef.jpeg': No such file or directory @ error/blob.c/OpenBlob/2874
+in APPPATH/Models/ImageModel.php on line 12.
+ 1 APPPATH/Models/ImageModel.php(12): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:56:34 --> unable to open image `/var/www/htdocs/demo/public/path/to/images//demo/writable/uploads1679925394_4d87f8d956c41906ca39.jpeg': No such file or directory @ error/blob.c/OpenBlob/2874
+in APPPATH/Models/ImageModel.php on line 12.
+ 1 APPPATH/Models/ImageModel.php(12): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 13:57:39 --> unable to open image `/var/www/htdocs/demo/public/path/to/images//demo/writable/uploads1679925459_d19980e63a78e816c3b9.jpeg': No such file or directory @ error/blob.c/OpenBlob/2874
+in APPPATH/Models/ImageModel.php on line 12.
+ 1 APPPATH/Models/ImageModel.php(12): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 14:01:38 --> unable to open image `/demo/writable/uploads1679925698_284a9758d362ee67a4fd.jpeg': No such file or directory @ error/blob.c/OpenBlob/2874
+in APPPATH/Models/ImageModel.php on line 13.
+ 1 APPPATH/Models/ImageModel.php(13): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 14:06:03 --> The path is a directory: /var/www/htdocs/demo/writable/uploads1679925963_45906e0c01bdbdb3942b.jpeg
+in APPPATH/Models/ImageModel.php on line 13.
+ 1 APPPATH/Models/ImageModel.php(13): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 14:06:35 --> The path is a directory: /var/www/htdocs/demo/writable/uploads/1679925995_686a52a65d2c54e4ea5b.jpeg
+in APPPATH/Models/ImageModel.php on line 13.
+ 1 APPPATH/Models/ImageModel.php(13): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 14:07:16 --> The path is a directory: /var/www/htdocs/demo/writable/uploads/1679926036_d80cc9c30a0dc9a95eb3.jpeg
+in APPPATH/Models/ImageModel.php on line 14.
+ 1 APPPATH/Models/ImageModel.php(14): Imagick->__construct()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 14:12:01 --> Imagick::writeImage() expects at most 1 argument, 2 given
+in APPPATH/Models/ImageModel.php on line 17.
+ 1 APPPATH/Models/ImageModel.php(17): Imagick->writeImage()
+ 2 APPPATH/Controllers/ImageController.php(37): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 23:40:28 --> Undefined variable $path
+in APPPATH/Views/image_form.php on line 13.
+ 1 APPPATH/Views/image_form.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ImageController.php(54): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-27 23:41:33 --> Undefined variable $path
+in APPPATH/Views/image_form.php on line 14.
+ 1 APPPATH/Views/image_form.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ImageController.php(54): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,7 @@
+CRITICAL - 2023-03-23 00:38:30 --> Undefined variable $builder
+in APPPATH/Controllers/AuthController.php on line 34.
+ 1 APPPATH/Controllers/AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,27 @@
+CRITICAL - 2023-03-16 00:05:02 --> Call to undefined function App\Controllers\delete_cookie()
+in APPPATH/Controllers/AuthController.php on line 61.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AuthController->logout()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-16 00:06:43 --> Undefined array key "user"
+in APPPATH/Controllers/AuthController.php on line 56.
+ 1 APPPATH/Controllers/AuthController.php(56): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AuthController->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-16 05:49:03 --> Undefined array key "user"
+in APPPATH/Controllers/AuthController.php on line 67.
+ 1 APPPATH/Controllers/AuthController.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AuthController->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-16 05:50:39 --> Undefined array key "user"
+in APPPATH/Controllers/AuthController.php on line 67.
+ 1 APPPATH/Controllers/AuthController.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\AuthController->logout()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

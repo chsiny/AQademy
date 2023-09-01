@@ -1,0 +1,385 @@
+CRITICAL - 2023-03-28 00:01:04 --> Undefined variable $newWidth
+in APPPATH/Models/ImageModel.php on line 15.
+ 1 APPPATH/Models/ImageModel.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(38): App\Models\ImageModel->crop()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:27:39 --> Undefined variable $original
+in APPPATH/Views/image_form.php on line 13.
+ 1 APPPATH/Views/image_form.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ImageController.php(55): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:37:22 --> non-conforming drawing primitive definition `text' @ error/draw.c/RenderMVGContent/4300
+in APPPATH/Models/ImageModel.php on line 52.
+ 1 APPPATH/Models/ImageModel.php(52): Imagick->drawImage()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:38:46 --> non-conforming drawing primitive definition `text' @ error/draw.c/RenderMVGContent/4300
+in APPPATH/Models/ImageModel.php on line 52.
+ 1 APPPATH/Models/ImageModel.php(52): Imagick->drawImage()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:39:18 --> non-conforming drawing primitive definition `text' @ error/draw.c/RenderMVGContent/4300
+in APPPATH/Models/ImageModel.php on line 52.
+ 1 APPPATH/Models/ImageModel.php(52): Imagick->drawImage()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:40:02 --> non-conforming drawing primitive definition `text' @ error/draw.c/RenderMVGContent/4300
+in APPPATH/Models/ImageModel.php on line 52.
+ 1 APPPATH/Models/ImageModel.php(52): Imagick->drawImage()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:41:28 --> The path does not exist: /var/www/htdocs/demo/public/path/to/font.ttf
+in APPPATH/Models/ImageModel.php on line 47.
+ 1 APPPATH/Models/ImageModel.php(47): ImagickDraw->setFont()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 00:42:38 --> non-conforming drawing primitive definition `text' @ error/draw.c/RenderMVGContent/4300
+in APPPATH/Models/ImageModel.php on line 53.
+ 1 APPPATH/Models/ImageModel.php(53): Imagick->drawImage()
+ 2 APPPATH/Controllers/ImageController.php(44): App\Models\ImageModel->addTextWatermark()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-28 01:43:29 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:43:29 --> 
+ERROR - 2023-03-28 01:44:12 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:44:12 --> 
+ERROR - 2023-03-28 01:48:44 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:48:44 --> 
+CRITICAL - 2023-03-28 01:50:36 --> Object of class CodeIgniter\Email\Email could not be converted to string
+in APPPATH/Controllers/EmailController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\EmailController->send()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-28 01:50:58 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:50:58 --> 
+ERROR - 2023-03-28 01:52:16 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:52:16 --> 
+ERROR - 2023-03-28 01:56:15 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:56:15 --> 
+ERROR - 2023-03-28 01:56:50 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-03-28 01:56:50 --> 
+CRITICAL - 2023-03-28 05:25:28 --> SplFileInfo::getSize(): stat failed for /demo/writable/uploads/1679981128_4f38dad4220d9e2c5c3a.jpg
+in SYSTEMPATH/Files/File.php on line 65.
+ 1 SYSTEMPATH/Files/File.php(65): SplFileInfo->getSize()
+ 2 SYSTEMPATH/Files/File.php(77): CodeIgniter\Files\File->getSize()
+ 3 APPPATH/Views/image_form.php(15): CodeIgniter\Files\File->getSizeByUnit()
+ 4 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 5 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/ImageController.php(50): view()
+ 8 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 9 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:26:27 --> finfo_file(/demo/writable/uploads/1679981187_7d48ba8f9a93058b6960.jpg): Failed to open stream: No such file or directory
+in SYSTEMPATH/Files/File.php on line 115.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Files/File.php(115): finfo_file()
+ 3 SYSTEMPATH/Files/File.php(98): CodeIgniter\Files\File->getMimeType()
+ 4 APPPATH/Views/image_form.php(16): CodeIgniter\Files\File->guessExtension()
+ 5 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 6 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 8 APPPATH/Controllers/ImageController.php(50): view()
+ 9 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+10 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:28:56 --> Undefined constant "original_info"
+in APPPATH/Views/image_form.php on line 15.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(50): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:31:03 --> SplFileInfo::getSize(): stat failed for demo/writable/uploads/1679981463_668acaba9c765fafc260.jpg
+in SYSTEMPATH/Files/File.php on line 65.
+ 1 SYSTEMPATH/Files/File.php(65): SplFileInfo->getSize()
+ 2 SYSTEMPATH/Files/File.php(77): CodeIgniter\Files\File->getSize()
+ 3 APPPATH/Views/image_form.php(16): CodeIgniter\Files\File->getSizeByUnit()
+ 4 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 5 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/ImageController.php(50): view()
+ 8 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 9 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:32:56 --> SplFileInfo::getSize(): stat failed for /var/www/htdocs/demo/demo/writable/uploads/1679981576_58d91fe268bd580c1b1a.jpg
+in SYSTEMPATH/Files/File.php on line 65.
+ 1 SYSTEMPATH/Files/File.php(65): SplFileInfo->getSize()
+ 2 SYSTEMPATH/Files/File.php(77): CodeIgniter\Files\File->getSize()
+ 3 APPPATH/Views/image_form.php(16): CodeIgniter\Files\File->getSizeByUnit()
+ 4 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 5 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/ImageController.php(50): view()
+ 8 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->upload()
+ 9 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:50:34 --> Undefined variable $files
+in APPPATH/Views/image_form.php on line 32.
+ 1 APPPATH/Views/image_form.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/image_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ImageController.php(15): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:54:21 --> scandir(demo/writable/uploads/): Failed to open directory: No such file or directory
+in APPPATH/Controllers/ImageController.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(58): scandir()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:54:43 --> scandir(/var/www/htdocs/demo/demo/writable/uploads/): Failed to open directory: No such file or directory
+in APPPATH/Controllers/ImageController.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(58): scandir()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:55:06 --> scandir(writable/uploads/): Failed to open directory: No such file or directory
+in APPPATH/Controllers/ImageController.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(58): scandir()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 05:55:13 --> Call to undefined function form_open_multipart()
+in APPPATH/Views/image_form.php on line 22.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(60): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:06:16 --> Class "App\Controllers\ZipArchive" not found
+in APPPATH/Controllers/ImageController.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:07:09 --> Class "App\Controllers\ZipArchive" not found
+in APPPATH/Controllers/ImageController.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:10:03 --> Class "App\Controllers\ZipArchive" not found
+in APPPATH/Controllers/ImageController.php on line 73.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:10:37 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(84): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:12:14 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(84): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:14:18 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(84): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:14:50 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(84): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:16:05 --> Undefined variable $zipFileName
+in APPPATH/Controllers/ImageController.php on line 82.
+ 1 APPPATH/Controllers/ImageController.php(82): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:16:25 --> Undefined variable $zipFileName
+in APPPATH/Controllers/ImageController.php on line 82.
+ 1 APPPATH/Controllers/ImageController.php(82): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:17:10 --> Undefined variable $zipFilename
+in APPPATH/Controllers/ImageController.php on line 73.
+ 1 APPPATH/Controllers/ImageController.php(73): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:17:24 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(84): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:17:40 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 85.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(85): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:17:52 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 85.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(85): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:18:44 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 85.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(85): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:19:21 --> Undefined variable $zip
+in APPPATH/Controllers/ImageController.php on line 74.
+ 1 APPPATH/Controllers/ImageController.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:19:35 --> ZipArchive::addFile(): No such file or directory
+in APPPATH/Controllers/ImageController.php on line 85.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/ImageController.php(85): ZipArchive->addFile()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:26:48 --> Call to a member function getSizeByUnit() on string
+in APPPATH/Views/image_form.php on line 35.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(61): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:27:36 --> Call to a member function getSizeByUnit() on string
+in APPPATH/Views/image_form.php on line 35.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(61): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:28:46 --> Call to a member function getSizeByUnit() on string
+in APPPATH/Views/image_form.php on line 35.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/ImageController.php(61): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->getFiles()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:32:03 --> Undefined variable $base_url
+in APPPATH/Controllers/ImageController.php on line 81.
+ 1 APPPATH/Controllers/ImageController.php(81): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:32:06 --> Undefined variable $base_url
+in APPPATH/Controllers/ImageController.php on line 81.
+ 1 APPPATH/Controllers/ImageController.php(81): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->zipFiles()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:16:08 --> Undefined property: App\Controllers\Helloworld::$load
+in APPPATH/Controllers/Helloworld.php on line 35.
+ 1 APPPATH/Controllers/Helloworld.php(35): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:18:43 --> Undefined property: App\Controllers\Helloworld::$load
+in APPPATH/Controllers/Helloworld.php on line 35.
+ 1 APPPATH/Controllers/Helloworld.php(35): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Helloworld->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:23:25 --> Undefined property: App\Controllers\ImageController::$load
+in APPPATH/Controllers/ImageController.php on line 15.
+ 1 APPPATH/Controllers/ImageController.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:23:25 --> Undefined property: App\Controllers\ImageController::$load
+in APPPATH/Controllers/ImageController.php on line 15.
+ 1 APPPATH/Controllers/ImageController.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ImageController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
