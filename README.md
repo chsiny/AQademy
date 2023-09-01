@@ -7,7 +7,7 @@ Each course will have its discussion forum, students can enroll in courses to po
 This project will utilize HTML, CSS, JavaScript, jQuery, Bootstrap, and AJAX to develop a responsive front-end interface with an intuitive user experience. The back end will be developed by using PHP, CodeIgniter, and MySQL to process requests, communicate with the database, and generate dynamic content on the client side.
 
 
-Features
+Features \
 • Login
 • Registration
 • User profile
