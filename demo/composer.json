@@ -10,6 +10,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "laminas/laminas-escaper": "^2.9",
+        "mongodb/mongodb": "^1.15",
         "psr/log": "^1.1"
     },
     "require-dev": {

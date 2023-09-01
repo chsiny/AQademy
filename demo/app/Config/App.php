@@ -17,7 +17,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'https://infs3202-9b5a764e.uqcloud.net/demo/';
+    public string $baseURL = 'https://infs3202-07887fa4.uqcloud.net/demo';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.

@@ -1,0 +1,112 @@
+CRITICAL - 2023-05-13 00:45:16 --> Undefined variable $validation
+in APPPATH/Views/user_profile.php on line 22.
+ 1 APPPATH/Views/user_profile.php(22): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/user_profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 00:49:43 --> Undefined variable $user
+in APPPATH/Views/user_profile.php on line 8.
+ 1 APPPATH/Views/user_profile.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/user_profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(96): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 00:56:43 --> Call to a member function listErrors() on string
+in APPPATH/Views/user_profile.php on line 16.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/User.php(23): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 01:11:30 --> Undefined variable $session
+in APPPATH/Controllers/Upload.php on line 93.
+ 1 APPPATH/Controllers/Upload.php(93): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 01:21:42 --> Undefined variable $session
+in APPPATH/Controllers/Upload.php on line 93.
+ 1 APPPATH/Controllers/Upload.php(93): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 01:24:24 --> Class "App\Controllers\Upload_model" not found
+in APPPATH/Controllers/Upload.php on line 78.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 01:35:37 --> Undefined variable $session
+in APPPATH/Controllers/Upload.php on line 94.
+ 1 APPPATH/Controllers/Upload.php(94): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-13 01:47:43 --> The route for "https://infs3202-07887fa4.uqcloud.net/demo/user" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Upload.php(94): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-13 13:11:18 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Upload_model.php(17): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Upload.php(79): App\Models\Upload->upload()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-13 13:11:18 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Upload_model.php(17): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Upload.php(79): App\Models\Upload->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-13 13:11:29 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Upload_model.php(17): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Upload.php(79): App\Models\Upload->upload()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-13 13:11:29 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Upload_model.php(17): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Upload.php(79): App\Models\Upload->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Upload->profile_picture()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

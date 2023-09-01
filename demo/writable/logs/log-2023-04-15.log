@@ -1,0 +1,2277 @@
+CRITICAL - 2023-04-15 00:04:44 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 67.
+ 1 APPPATH/Controllers/Posts.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:04:45 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 67.
+ 1 APPPATH/Controllers/Posts.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:04:46 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 67.
+ 1 APPPATH/Controllers/Posts.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:04:48 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 67.
+ 1 APPPATH/Controllers/Posts.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:05:58 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:06:00 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:14:50 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:23:15 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:23:17 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:23:20 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:23:22 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:36:56 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:36:57 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:36:58 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:36:58 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:39:02 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:39:03 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:41:48 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:41:50 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:42:17 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:42:18 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:42:20 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:42:21 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:42:21 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:43:18 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:43:19 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:43:21 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:50:49 --> Undefined variable $search_results
+in APPPATH/Views/template/header.php on line 50.
+ 1 APPPATH/Views/template/header.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template/header.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(22): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 00:55:15 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:00:01 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:00:04 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:01:27 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:01:44 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:01:45 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:01:47 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:06:13 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:06:13 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:06:14 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:06:16 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:08:30 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:09:22 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:10:18 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:14:21 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:16:31 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:16:54 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:16:56 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:26:00 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:26:11 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:26:14 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:27:05 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:27:07 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:27:08 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:29:11 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:36:13 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 01:36:13 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:27:21 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:27:22 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:39:06 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:39:07 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:39:09 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:39:12 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 68.
+ 1 APPPATH/Controllers/Posts.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:31:01 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 APPPATH/Controllers/Posts.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:31:03 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 APPPATH/Controllers/Posts.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:41:04 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:41:06 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:41:07 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:50:45 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:50:46 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:50:48 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:51:09 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:51:11 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:51:12 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:53:40 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:53:41 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get()
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:54:12 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 APPPATH/Controllers/Posts.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:54:13 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 APPPATH/Controllers/Posts.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:54:14 --> Undefined property: App\Controllers\Posts::$input
+in APPPATH/Controllers/Posts.php on line 70.
+ 1 APPPATH/Controllers/Posts.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:57:32 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 71.
+ 1 APPPATH/Controllers/Posts.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:57:33 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 71.
+ 1 APPPATH/Controllers/Posts.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:57:33 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 71.
+ 1 APPPATH/Controllers/Posts.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 10:57:34 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 71.
+ 1 APPPATH/Controllers/Posts.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:11:04 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 83.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:11:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::query()
+in APPPATH/Controllers/Posts.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:18:05 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 83.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:18:08 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::query()
+in APPPATH/Controllers/Posts.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:18:22 --> Undefined array key "searchTerm"
+in APPPATH/Controllers/Posts.php on line 83.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:18:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::query()
+in APPPATH/Controllers/Posts.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:18:24 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::query()
+in APPPATH/Controllers/Posts.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:23:03 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:23:04 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:23:05 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:23:09 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:04 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:06 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:07 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:08 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:08 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:09 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:46 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:47 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:48 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:25:49 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:26:33 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:26:34 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:26:34 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:26:36 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:26:37 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:13 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:15 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:18 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:19 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:21 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:27:22 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:32:58 --> Undefined constant "assets"
+in APPPATH/Views/template/header.php on line 11.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Posts.php(20): view()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->index()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 12:33:12 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Controllers/Posts.php on line 83
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Controllers/Posts.php(83): CodeIgniter\Database\BaseBuilder->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search2()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:43:26 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:43:26 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:43:38 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:43:38 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:43:42 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:43:42 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:43:47 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:43:47 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:44:46 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:44:46 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:44:51 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:44:51 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 12:44:54 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 12:44:54 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:00:21 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:00:21 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:08 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:08 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:09 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:09 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:09 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:09 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:09 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:09 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:10 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:10 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:10 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:10 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:11 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:11 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:12 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:12 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:12 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:12 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:13 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:13 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:13 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:13 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:13 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:13 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:13 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:13 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:13 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:13 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:14 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:14 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:14 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:14 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:14 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:14 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:08:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:08:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:10:51 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:10:51 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:10:53 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:10:53 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:12:27 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:12:27 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:12:28 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:12:28 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:12:29 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:12:29 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:14:06 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:14:06 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:14:07 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:14:07 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:14:07 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:14:07 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:14:08 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:14:08 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:14:37 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:14:37 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:15:04 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:15:04 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:16:26 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:16:26 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:21:00 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:21:00 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:24:36 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:24:36 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:25:48 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:25:48 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:25:50 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:25:50 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:25:51 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:25:51 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(77): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:28:15 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:28:15 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:29:03 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:29:03 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:30:32 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:30:32 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:33:55 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:33:55 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:33:56 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:33:56 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:34:59 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:34:59 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(73): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:38:36 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:38:36 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:39:10 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:39:10 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(76): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:42:38 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:42:38 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:42:39 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:42:39 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:42:40 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:42:40 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:44:14 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:44:14 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:44:18 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:44:18 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:44:19 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:44:19 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 13:44:20 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->search()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-15 13:44:20 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(77): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(74): App\Models\Posts_model->searchPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 14:00:33 --> get_object_vars(): Argument #1 ($object) must be of type object, array given
+in APPPATH/Controllers/Posts.php on line 77.
+ 1 APPPATH/Controllers/Posts.php(77): get_object_vars()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->search()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

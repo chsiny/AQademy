@@ -28,8 +28,7 @@ class Email extends BaseConfig
     /**
      * SMTP Server Address
      */
-    //public string $SMTPHost = '';
-    public string $SMTPHost = 'mailhub.eait.uq.edu.au';
+    public string $SMTPHost = '';
 
     /**
      * SMTP Username

@@ -1,0 +1,226 @@
+CRITICAL - 2023-05-14 02:00:27 --> Undefined variable $limit
+in APPPATH/Views/home.php on line 40.
+ 1 APPPATH/Views/home.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(24): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-14 02:04:04 --> mysqli_sql_exception: Unknown column 'id' in 'order clause' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Home.php(13): App\Models\Posts_model->getPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->index()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-14 02:04:04 --> Unknown column 'id' in 'order clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Home.php(13): App\Models\Posts_model->getPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 02:04:32 --> Undefined variable $limit
+in APPPATH/Views/home.php on line 40.
+ 1 APPPATH/Views/home.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 02:06:58 --> Call to undefined method App\Models\Posts_model::countPosts
+in SYSTEMPATH/Model.php on line 842.
+ 1 APPPATH/Controllers/Home.php(14): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-14 02:07:34 --> mysqli_sql_exception: Table 'demo.posts' doesn't exist in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1645): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(28): CodeIgniter\Database\BaseBuilder->countAll()
+#5 /var/www/htdocs/demo/app/Controllers/Home.php(14): App\Models\Posts_model->countPosts()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->index()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-14 02:07:34 --> Table 'demo.posts' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1645): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(28): CodeIgniter\Database\BaseBuilder->countAll()
+ 3 APPPATH/Controllers/Home.php(14): App\Models\Posts_model->countPosts()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 05:38:34 --> Undefined variable $error
+in APPPATH/Views/login.php on line 13.
+ 1 APPPATH/Views/login.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(37): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 07:02:37 --> Too few arguments to function App\Models\Posts_model::getPosts(), 0 passed in /var/www/htdocs/demo/app/Controllers/Login.php on line 10 and exactly 2 expected
+in APPPATH/Models/Posts_model.php on line 12.
+ 1 APPPATH/Controllers/Login.php(10): App\Models\Posts_model->getPosts()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 07:02:50 --> Too few arguments to function App\Models\Posts_model::getPosts(), 0 passed in /var/www/htdocs/demo/app/Controllers/Login.php on line 10 and exactly 2 expected
+in APPPATH/Models/Posts_model.php on line 12.
+ 1 APPPATH/Controllers/Login.php(10): App\Models\Posts_model->getPosts()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 07:16:44 --> Undefined variable $posts
+in APPPATH/Views/home.php on line 10.
+ 1 APPPATH/Views/home.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(24): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 11:12:00 --> in_array(): Argument #2 ($haystack) must be of type array, bool given
+in APPPATH/Controllers/Posts.php on line 52.
+ 1 APPPATH/Controllers/Posts.php(52): in_array()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->bookmark()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 11:40:55 --> Undefined property: App\Controllers\Posts::$db
+in APPPATH/Controllers/Posts.php on line 80.
+ 1 APPPATH/Controllers/Posts.php(80): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->bookmark()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 11:41:11 --> Undefined property: App\Controllers\Posts::$db
+in APPPATH/Controllers/Posts.php on line 80.
+ 1 APPPATH/Controllers/Posts.php(80): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->bookmark()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 12:17:39 --> Call to undefined method App\Models\Posts_model::getBookmarks
+in SYSTEMPATH/Model.php on line 842.
+ 1 APPPATH/Controllers/Posts.php(96): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->getBookmarks()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 12:18:41 --> Undefined array key "isComment"
+in APPPATH/Views/bookmarks.php on line 5.
+ 1 APPPATH/Views/bookmarks.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/bookmarks.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Posts.php(99): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->getBookmarks()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-14 12:20:04 --> mysqli_sql_exception: Column 'username' in where clause is ambiguous in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(63): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(96): App\Models\Posts_model->getBookmarks()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->getBookmarks()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-14 12:20:04 --> Column 'username' in where clause is ambiguous
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(63): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(96): App\Models\Posts_model->getBookmarks()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->getBookmarks()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 12:35:13 --> Too few arguments to function App\Controllers\Posts::deleteBookmark(), 0 passed in /var/www/htdocs/demo/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/Posts.php on line 104.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->deleteBookmark()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-14 12:35:44 --> mysqli_sql_exception: Table 'demo.bookmarks' doesn't exist in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(72): CodeIgniter\Database\BaseBuilder->delete()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(115): App\Models\Posts_model->deleteBookmark()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->deleteBookmark()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-14 12:35:44 --> Table 'demo.bookmarks' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(72): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/Posts.php(115): App\Models\Posts_model->deleteBookmark()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->deleteBookmark()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 12:36:02 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::affectedRows()
+in APPPATH/Models/Posts_model.php on line 73.
+ 1 APPPATH/Controllers/Posts.php(115): App\Models\Posts_model->deleteBookmark()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->deleteBookmark()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 12:37:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH/Models/Posts_model.php on line 73.
+ 1 APPPATH/Controllers/Posts.php(115): App\Models\Posts_model->deleteBookmark()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->deleteBookmark()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 13:18:31 --> Too few arguments to function App\Models\Posts_model::getPosts(), 0 passed in /var/www/htdocs/demo/app/Controllers/Login.php on line 59 and exactly 2 expected
+in APPPATH/Models/Posts_model.php on line 12.
+ 1 APPPATH/Controllers/Login.php(59): App\Models\Posts_model->getPosts()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-14 13:19:53 --> Undefined variable $if_remember
+in APPPATH/Controllers/Login.php on line 65.
+ 1 APPPATH/Controllers/Login.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

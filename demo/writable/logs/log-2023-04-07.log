@@ -1,0 +1,119 @@
+CRITICAL - 2023-04-07 06:44:57 --> Undefined property: App\Controllers\User::$load
+in APPPATH/Controllers/User.php on line 7.
+ 1 APPPATH/Controllers/User.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 06:45:13 --> Undefined variable $user
+in APPPATH/Views/update_profile_form.php on line 3.
+ 1 APPPATH/Views/update_profile_form.php(3): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(7): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 06:46:16 --> Undefined property: App\Controllers\User::$input
+in APPPATH/Controllers/User.php on line 9.
+ 1 APPPATH/Controllers/User.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 06:46:18 --> Undefined property: App\Controllers\User::$input
+in APPPATH/Controllers/User.php on line 9.
+ 1 APPPATH/Controllers/User.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:08 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:09 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:49 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:49 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:50 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 07:07:54 --> Undefined variable $newEmail
+in APPPATH/Views/update_profile_form.php on line 25.
+ 1 APPPATH/Views/update_profile_form.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/update_profile_form.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(10): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 11:11:20 --> Undefined variable $username
+in APPPATH/Controllers/User.php on line 22.
+ 1 APPPATH/Controllers/User.php(22): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 11:13:03 --> Undefined variable $username
+in APPPATH/Controllers/User.php on line 19.
+ 1 APPPATH/Controllers/User.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-07 11:13:32 --> Undefined variable $username
+in APPPATH/Controllers/User.php on line 19.
+ 1 APPPATH/Controllers/User.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->update_profile()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

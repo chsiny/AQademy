@@ -1,0 +1,391 @@
+CRITICAL - 2023-04-13 00:01:35 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:03:23 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:03:24 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:03:25 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:03:28 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:03:29 --> Undefined array key "id"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:04:56 --> Undefined array key "poid"
+in APPPATH/Views/home.php on line 17.
+ 1 APPPATH/Views/home.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Login.php(23): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 00:05:12 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(10): App\Models\Posts_model->getPost()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->index()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 00:05:12 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(10): App\Models\Posts_model->getPost()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 00:05:48 --> mysqli_sql_exception: Unknown column 'Posts.id' in 'on clause' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(11): App\Models\Posts_model->getComments()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->index()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 00:05:48 --> Unknown column 'Posts.id' in 'on clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(41): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/Posts.php(11): App\Models\Posts_model->getComments()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:06:07 --> Undefined property: stdClass::$id
+in APPPATH/Views/post_view.php on line 7.
+ 1 APPPATH/Views/post_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/post_view.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Posts.php(19): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 00:06:25 --> Undefined property: stdClass::$id
+in APPPATH/Views/post_view.php on line 29.
+ 1 APPPATH/Views/post_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/post_view.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Posts.php(19): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:08:51 --> Undefined variable $session
+in APPPATH/Controllers/Home.php on line 31.
+ 1 APPPATH/Controllers/Home.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:10:13 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Controllers/Home.php(38): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->createPost()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-13 04:10:13 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Home.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:10:40 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Controllers/Home.php(38): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->createPost()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-13 04:10:40 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Home.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:11:00 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Controllers/Home.php(38): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->createPost()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-13 04:11:00 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Home.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:11:05 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Controllers/Home.php(38): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->createPost()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-13 04:11:05 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Home.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:13:38 --> mysqli_sql_exception: Column 'title' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Controllers/Home.php(38): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Home->createPost()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-13 04:13:38 --> Column 'title' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/Home.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Home->createPost()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:36:21 --> Undefined variable $parentPostId
+in APPPATH/Models/Posts_model.php on line 63.
+ 1 APPPATH/Models/Posts_model.php(63): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Posts.php(52): App\Models\Posts_model->createComment()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->createComment()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:38:13 --> mysqli_sql_exception: Unknown column 'parentPostId' in 'field list' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Posts_model.php(65): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Posts.php(54): App\Models\Posts_model->createComment()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Posts->createComment()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:38:13 --> Unknown column 'parentPostId' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Posts_model.php(65): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Posts.php(54): App\Models\Posts_model->createComment()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Posts->createComment()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:10:08 --> Invalid file: "input.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/User.php(29): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:42:22 --> Undefined property: App\Controllers\User::$input
+in APPPATH/Controllers/User.php on line 34.
+ 1 APPPATH/Controllers/User.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:45:58 --> Allowed fields must be specified for model: "App\Models\User_model"
+in SYSTEMPATH/BaseModel.php on line 1242.
+ 1 SYSTEMPATH/BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields()
+ 2 SYSTEMPATH/BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields()
+ 3 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 4 APPPATH/Models/User_model.php(31): CodeIgniter\Model->insert()
+ 5 APPPATH/Controllers/User.php(42): App\Models\User_model->register()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:50:39 --> Undefined variable $table
+in APPPATH/Models/User_model.php on line 32.
+ 1 APPPATH/Models/User_model.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/User.php(42): App\Models\User_model->register()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:54:22 --> Undefined property: App\Controllers\User::$load
+in APPPATH/Controllers/User.php on line 51.
+ 1 APPPATH/Controllers/User.php(51): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 11:55:13 --> mysqli_sql_exception: Duplicate entry '1234' for key 'Users.username' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/system/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/system/BaseModel.php(782): CodeIgniter\Model->doInsert()
+#6 /var/www/htdocs/demo/system/Model.php(730): CodeIgniter\BaseModel->insert()
+#7 /var/www/htdocs/demo/app/Models/User_model.php(32): CodeIgniter\Model->insert()
+#8 /var/www/htdocs/demo/app/Controllers/User.php(42): App\Models\User_model->register()
+#9 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\User->register()
+#10 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#11 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#12 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-04-13 11:55:13 --> Duplicate entry '1234' for key 'Users.username'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(782): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(730): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Models/User_model.php(32): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/User.php(42): App\Models\User_model->register()
+ 7 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 8 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:58:41 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/User.php(47): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\User->register()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

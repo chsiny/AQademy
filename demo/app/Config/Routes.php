@@ -19,8 +19,7 @@ $routes->set404Override();
 // where controller filters or CSRF protection are bypassed.
 // If you don't want to define all routes, please use the Auto Routing (Improved).
 // Set `$autoRoutesImproved` to true in `app/Config/Feature.php` and set the following to true.
-$routes->setAutoRoute(true);
-//$routes->setAutoRoute(false);
+// $routes->setAutoRoute(false);
 
 /*
  * --------------------------------------------------------------------
@@ -30,57 +29,40 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-//$routes->get('/', 'Home::index');
-//$routes->get('/', 'Helloworld::index');
-//$routes->get('/helloworld/', 'Helloworld::index');
-//$routes->get('/helloworld/(:any)', 'Helloworld::index/$1/$2');
+$routes->get('/', 'Home::index');
+$routes->get('/hello', 'Hello::index');
+$routes->get('/login', 'Login::index');
+$routes->post('/login/check_login', 'Login::check_login');
+$routes->get('/login/logout', 'Login::logout');
+$routes->post('/upload/upload_file', 'Upload::upload_file');
+$routes->post('/upload/profile_picture', 'Upload::profile_picture');
+$routes->get('/upload', 'Upload::index');
+$routes->get('/user', 'User::index');
+$routes->get('/user/register_page', 'User::register_page');
+$routes->post('/user/register', 'User::register');
+$routes->get('/user/verify_email/(:any)', 'User::verify_email/$1');
+$routes->get('forget_password', 'User::forget_password');
+$routes->post('send_verification', 'User::send_verification');
+$routes->get('user/reset_password_form/(:any)', 'User::reset_password_view/$1');
+$routes->post('user/reset_password', 'User::reset_password');
+$routes->post('/user/update_profile', 'User::update_profile');
+$routes->get('/addPost', 'Home::addPost');
+$routes->post('/addPost/create_post', 'Home::createPost');
+$routes->get('/post/(:num)', 'Posts::index/$1');
+$routes->post('/upvote/(:num)', 'Posts::upvote/$1');
+$routes->post('/comments/create', 'Posts::createComment');
+$routes->get('/autocomplete', 'Posts::autocomplete');
+// $routes->get('/search', 'Posts::search');
+$routes->get('/searchPosts', 'Posts::searchPostsView');
 
+$routes->get('movie', 'MovieController::index');
+// $routes->match(['get', 'post'], '/search', 'Posts::search');
 
-//$routes->setPrioritize();
-//$routes->get('/(:any)', 'Home::index', ['priority' => 1]);
-//$routes->get('/admin', 'Helloworld::index/2020/2023');
-//$routes->get('/', 'Home::index');
-//$routes->get('/', 'Helloworld::index/2020/2023');
-
-$routes->get('form', 'FormController::getFormData');
-$routes->post('/(.*)/form', 'FormController::getFormData');
-
-$routes->get('image','ImageController::index');
-$routes->post('/(.*)/upload','ImageController::upload');
-$routes->get('image/getFiles','ImageController::getFiles');
-$routes->get('image/zipFiles','ImageController::zipFiles');
-$routes->get('image/delFiles','ImageController::delFiles');
-
-$routes->get('email','EmailController::index');
-$routes->post('/(.*)/send','EmailController::send');
-
-$routes->get('publication/','Papers::index');
-$routes->get('publication/(:num)','Papers::paperLookupByYear/$1');
-//$routes->get('/publication/(:any)','Papers::paperLookup');
-
-$routes->get('publication/display','Papers::display2');
-$routes->get('publication/display','Papers::display3');
-$routes->get('publication/display','Papers::display1');
-
-//$routes->setPrioritize();
-//$routes->get('/(.*)', 'Home::index', ['priority' => 1]);
-//$routes->get('/admin', 'Helloworld::comment');
-
-$routes->get('/reqdemo','Request_demo::index');
-
-$routes->get('/auth/login','AuthController::login');
-$routes->post('/(.*)/login','AuthController::login');
-$routes->get('/(.*)/logout','AuthController::logout');
-
-$routes->get('/(.*)/ajax', 'AuthController::getAJAXResult');
-$routes->match(['get','post'],'/(.*)/ajax', 'AuthController::getAJAXResult');
-
-
-
-
-
-
-
+// milestone3
+$routes->post('posts/loadPosts', 'Posts::loadPosts');
+$routes->get('bookmark/(:num)', 'Posts::bookmark/$1');
+$routes->get('bookmarks', 'Posts::getBookmarks');
+$routes->get('bookmarks/(:num)', 'Posts::deleteBookmark/$1');
 
 /*
  * --------------------------------------------------------------------
