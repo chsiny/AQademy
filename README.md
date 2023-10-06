@@ -1,4 +1,5 @@
 # AQademy
+https://infs3202-07887fa4.uqcloud.net/demo/
 Introduction: \
 AQademy is an online discussion platform that empowers students to ask questions and participate in forum-based discussions. Instructors can moderate discussions and endorse accurate answers, and students can upvote the answers they find helpful. This platform aims to enhance student engagement and promote active learning, revolutionizing the way students interact with their coursework. \
 Objectives: \
